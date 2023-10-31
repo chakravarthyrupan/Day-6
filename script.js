@@ -75,5 +75,3 @@ console.log(car1.power);
 */
 
 
-
-
